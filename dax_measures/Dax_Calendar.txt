@@ -1,0 +1,1 @@
+Calendar = CALENDAR(min('Balaji Fast Food Sales (1)'[date]),max('Balaji Fast Food Sales (1)'[date])) 

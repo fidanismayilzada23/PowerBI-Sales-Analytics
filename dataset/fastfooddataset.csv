@@ -1,0 +1,894 @@
+﻿order_id;date;item_name;item_type;item_price;quantity;transaction_amount;transaction_type;received_by;time_of_sale
+8;22.12.2022;Hamburger;Yeməklər;20;14;280;Kart;Kişi;Gecə
+9;10.06.2022;Hamburger;Yeməklər;20;1;20;Nağd;Qadın;Səhər
+10;16.09.2022;Hamburger;Yeməklər;20;5;100;Kart;Kişi;Günorta
+13;22.12.2022;Hamburger;Yeməklər;20;9;180;Kart;Qadın;Günorta
+17;16.10.2022;Hamburger;Yeməklər;20;11;220;Nağd;Qadın;Səhər
+18;5.11.2022;Hamburger;Yeməklər;20;10;200;Nağd;Qadın;Gecə
+19;22.08.2022;Hamburger;Yeməklər;20;11;220;Nağd;Qadın;Gecə
+38;8.03.2023;Hamburger;Yeməklər;20;12;240;Kart;Qadın;Gecə
+54;28.12.2022;Hamburger;Yeməklər;20;14;280;Kart;Qadın;Səhər
+56;23.11.2022;Hamburger;Yeməklər;20;11;220;Nağd;Qadın;Gecə yarısı
+57;4.08.2022;Hamburger;Yeməklər;20;14;280;Kart;Qadın;Səhər
+73;29.07.2022;Hamburger;Yeməklər;20;5;100;Nağd;Kişi;Gecə yarısı
+79;5.11.2022;Hamburger;Yeməklər;20;6;120;Kart;Kişi;Gecə
+84;3.03.2023;Hamburger;Yeməklər;20;13;260;Nağd;Kişi;Gecə yarısı
+105;25.01.2023;Hamburger;Yeməklər;20;8;160;Nağd;Qadın;Akşamüstü
+108;6.08.2022;Hamburger;Yeməklər;20;5;100;Kart;Kişi;Günorta
+110;16.11.2022;Hamburger;Yeməklər;20;2;40;Kart;Qadın;Səhər
+119;12.05.2022;Hamburger;Yeməklər;20;10;200;Nağd;Kişi;Akşamüstü
+126;8.04.2022;Hamburger;Yeməklər;20;11;220;Kart;Qadın;Gecə
+129;19.10.2022;Hamburger;Yeməklər;20;13;260;Nağd;Qadın;Səhər
+144;17.11.2022;Hamburger;Yeməklər;20;10;200;Nağd;Qadın;Akşamüstü
+147;17.05.2022;Hamburger;Yeməklər;20;7;140;Kart;Kişi;Akşamüstü
+153;21.07.2022;Hamburger;Yeməklər;20;1;20;Nağd;Qadın;Akşamüstü
+156;25.03.2023;Hamburger;Yeməklər;20;14;280;Nağd;Kişi;Gecə yarısı
+166;1.06.2022;Hamburger;Yeməklər;20;6;120;Nağd;Qadın;Akşamüstü
+176;4.08.2022;Hamburger;Yeməklər;20;1;20;Nağd;Qadın;Gecə yarısı
+177;21.07.2022;Hamburger;Yeməklər;20;11;220;Kart;Qadın;Səhər
+188;28.12.2022;Hamburger;Yeməklər;20;14;280;Nağd;Qadın;Gecə
+197;8.11.2022;Hamburger;Yeməklər;20;10;200;Nağd;Qadın;Gecə yarısı
+201;30.06.2022;Hamburger;Yeməklər;20;8;160;Nağd;Kişi;Səhər
+216;7.03.2023;Hamburger;Yeməklər;20;9;180;Nağd;Qadın;Günorta
+223;21.09.2022;Hamburger;Yeməklər;20;13;260;Kart;Kişi;Gecə
+228;5.11.2022;Hamburger;Yeməklər;20;8;160;Kart;Kişi;Gecə
+233;31.07.2022;Hamburger;Yeməklər;20;5;100;Nağd;Kişi;Səhər
+234;27.07.2022;Hamburger;Yeməklər;20;10;200;Nağd;Kişi;Gecə yarısı
+237;8.11.2022;Hamburger;Yeməklər;20;13;260;Nağd;Qadın;Gecə yarısı
+243;12.11.2022;Hamburger;Yeməklər;20;5;100;Nağd;Qadın;Gecə yarısı
+263;19.06.2022;Hamburger;Yeməklər;20;2;40;Nağd;Kişi;Akşamüstü
+273;15.08.2022;Hamburger;Yeməklər;20;15;300;Nağd;Kişi;Gecə yarısı
+280;9.10.2022;Hamburger;Yeməklər;20;14;280;Kart;Qadın;Akşamüstü
+283;2.07.2022;Hamburger;Yeməklər;20;2;40;Nağd;Qadın;Gecə yarısı
+290;3.05.2022;Hamburger;Yeməklər;20;7;140;Nağd;Qadın;Səhər
+293;21.04.2022;Hamburger;Yeməklər;20;8;160;Kart;Qadın;Səhər
+296;6.02.2023;Hamburger;Yeməklər;20;7;140;Nağd;Qadın;Günorta
+301;28.01.2023;Hamburger;Yeməklər;20;7;140;Nağd;Kişi;Gecə
+329;10.01.2023;Hamburger;Yeməklər;20;7;140;Kart;Qadın;Günorta
+331;21.08.2022;Hamburger;Yeməklər;20;4;80;Kart;Qadın;Akşamüstü
+345;9.05.2022;Hamburger;Yeməklər;20;14;280;Kart;Qadın;Gecə
+349;17.08.2022;Hamburger;Yeməklər;20;5;100;Nağd;Qadın;Akşamüstü
+354;16.01.2023;Hamburger;Yeməklər;20;14;280;Kart;Kişi;Gecə yarısı
+365;8.07.2022;Hamburger;Yeməklər;20;10;200;Kart;Kişi;Gecə
+375;17.11.2022;Hamburger;Yeməklər;20;13;260;Nağd;Kişi;Akşamüstü
+398;13.01.2023;Hamburger;Yeməklər;20;6;120;Kart;Kişi;Akşamüstü
+399;24.06.2022;Hamburger;Yeməklər;20;9;180;Nağd;Qadın;Akşamüstü
+411;20.11.2022;Hamburger;Yeməklər;20;12;240;Nağd;Kişi;Günorta
+417;16.01.2023;Hamburger;Yeməklər;20;3;60;Nağd;Kişi;Akşamüstü
+425;17.08.2022;Hamburger;Yeməklər;20;14;280;Kart;Kişi;Günorta
+431;16.03.2023;Hamburger;Yeməklər;20;6;120;Kart;Kişi;Akşamüstü
+432;27.03.2023;Hamburger;Yeməklər;20;6;120;Kart;Kişi;Günorta
+433;27.05.2022;Hamburger;Yeməklər;20;14;280;Kart;Qadın;Akşamüstü
+466;11.01.2023;Hamburger;Yeməklər;20;6;120;Nağd;Kişi;Akşamüstü
+468;8.09.2022;Hamburger;Yeməklər;20;2;40;Nağd;Kişi;Akşamüstü
+471;13.02.2023;Hamburger;Yeməklər;20;7;140;Nağd;Qadın;Günorta
+483;27.04.2022;Hamburger;Yeməklər;20;9;180;Nağd;Qadın;Səhər
+502;4.01.2023;Hamburger;Yeməklər;20;13;260;Kart;Kişi;Gecə
+511;2.08.2022;Hamburger;Yeməklər;20;4;80;Nağd;Qadın;Gecə
+512;11.01.2023;Hamburger;Yeməklər;20;3;60;Nağd;Qadın;Günorta
+517;2.07.2022;Hamburger;Yeməklər;20;13;260;Kart;Kişi;Akşamüstü
+520;3.04.2022;Hamburger;Yeməklər;20;11;220;Kart;Qadın;Gecə
+521;27.01.2023;Hamburger;Yeməklər;20;14;280;Kart;Kişi;Səhər
+522;29.12.2022;Hamburger;Yeməklər;20;13;260;Nağd;Qadın;Gecə yarısı
+530;27.07.2022;Hamburger;Yeməklər;20;6;120;Nağd;Qadın;Gecə
+532;27.03.2023;Hamburger;Yeməklər;20;13;260;Kart;Qadın;Gecə yarısı
+537;25.01.2023;Hamburger;Yeməklər;20;3;60;Nağd;Kişi;Akşamüstü
+538;5.06.2022;Hamburger;Yeməklər;20;7;140;Kart;Kişi;Səhər
+539;7.09.2022;Hamburger;Yeməklər;20;3;60;Kart;Kişi;Akşamüstü
+541;30.07.2022;Hamburger;Yeməklər;20;12;240;Nağd;Kişi;Gecə
+553;11.11.2022;Hamburger;Yeməklər;20;14;280;Nağd;Kişi;Akşamüstü
+554;9.03.2023;Hamburger;Yeməklər;20;4;80;Nağd;Qadın;Günorta
+558;1.10.2022;Hamburger;Yeməklər;20;5;100;Kart;Kişi;Səhər
+561;13.06.2022;Hamburger;Yeməklər;20;1;20;Nağd;Qadın;Gecə yarısı
+565;27.09.2022;Hamburger;Yeməklər;20;15;300;Nağd;Kişi;Akşamüstü
+576;23.03.2023;Hamburger;Yeməklər;20;12;240;Nağd;Qadın;Günorta
+579;27.04.2022;Hamburger;Yeməklər;20;2;40;Nağd;Kişi;Akşamüstü
+580;1.07.2022;Hamburger;Yeməklər;20;10;200;Kart;Kişi;Gecə
+590;27.03.2023;Hamburger;Yeməklər;20;15;300;Kart;Kişi;Gecə yarısı
+597;30.11.2022;Hamburger;Yeməklər;20;10;200;Kart;Kişi;Gecə yarısı
+600;24.12.2022;Hamburger;Yeməklər;20;6;120;Nağd;Qadın;Səhər
+620;14.09.2022;Hamburger;Yeməklər;20;12;240;Kart;Qadın;Akşamüstü
+622;14.12.2022;Hamburger;Yeməklər;20;13;260;Kart;Kişi;Günorta
+632;28.10.2022;Hamburger;Yeməklər;20;9;180;Kart;Qadın;Gecə
+634;26.07.2022;Hamburger;Yeməklər;20;13;260;Nağd;Kişi;Günorta
+644;3.02.2023;Hamburger;Yeməklər;20;5;100;Kart;Qadın;Akşamüstü
+659;21.01.2023;Hamburger;Yeməklər;20;2;40;Kart;Kişi;Günorta
+662;15.02.2023;Hamburger;Yeməklər;20;3;60;Kart;Qadın;Günorta
+666;25.01.2023;Hamburger;Yeməklər;20;9;180;Nağd;Kişi;Akşamüstü
+670;5.07.2022;Hamburger;Yeməklər;20;15;300;Nağd;Kişi;Gecə
+694;22.04.2022;Hamburger;Yeməklər;20;14;280;Nağd;Kişi;Gecə yarısı
+695;24.08.2022;Hamburger;Yeməklər;20;10;200;Kart;Qadın;Gecə yarısı
+698;26.11.2022;Hamburger;Yeməklər;20;10;200;Kart;Kişi;Gecə
+703;1.11.2022;Hamburger;Yeməklər;20;10;200;Kart;Qadın;Günorta
+707;16.12.2022;Hamburger;Yeməklər;20;2;40;Kart;Kişi;Gecə
+716;3.12.2022;Hamburger;Yeməklər;20;9;180;Nağd;Qadın;Gecə yarısı
+726;11.09.2022;Hamburger;Yeməklər;20;1;20;Kart;Kişi;Səhər
+735;10.08.2022;Hamburger;Yeməklər;20;11;220;Nağd;Kişi;Səhər
+742;18.11.2022;Hamburger;Yeməklər;20;14;280;Kart;Kişi;Gecə
+743;9.11.2022;Hamburger;Yeməklər;20;1;20;Nağd;Kişi;Səhər
+752;4.06.2022;Hamburger;Yeməklər;20;2;40;Kart;Qadın;Səhər
+771;15.08.2022;Hamburger;Yeməklər;20;5;100;Kart;Qadın;Gecə yarısı
+777;23.10.2022;Hamburger;Yeməklər;20;13;260;Nağd;Kişi;Səhər
+790;20.07.2022;Hamburger;Yeməklər;20;3;60;Nağd;Qadın;Akşamüstü
+799;11.01.2023;Hamburger;Yeməklər;20;1;20;Kart;Qadın;Gecə
+808;21.09.2022;Hamburger;Yeməklər;20;1;20;Kart;Kişi;Səhər
+809;12.12.2022;Hamburger;Yeməklər;20;10;200;Kart;Kişi;Akşamüstü
+812;8.08.2022;Hamburger;Yeməklər;20;5;100;Nağd;Kişi;Günorta
+813;13.10.2022;Hamburger;Yeməklər;20;10;200;Kart;Kişi;Günorta
+822;17.06.2022;Hamburger;Yeməklər;20;12;240;Kart;Kişi;Səhər
+823;13.02.2023;Hamburger;Yeməklər;20;11;220;Kart;Kişi;Gecə yarısı
+825;30.10.2022;Hamburger;Yeməklər;20;14;280;Nağd;Qadın;Səhər
+828;18.08.2022;Hamburger;Yeməklər;20;6;120;Nağd;Kişi;Akşamüstü
+833;1.09.2022;Hamburger;Yeməklər;20;2;40;Kart;Qadın;Akşamüstü
+842;25.05.2022;Hamburger;Yeməklər;20;2;40;Nağd;Qadın;Akşamüstü
+847;14.08.2022;Hamburger;Yeməklər;20;11;220;Kart;Kişi;Gecə yarısı
+869;26.06.2022;Hamburger;Yeməklər;20;9;180;Kart;Kişi;Gecə yarısı
+882;23.04.2022;Hamburger;Yeməklər;20;9;180;Kart;Kişi;Səhər
+910;9.10.2022;Hamburger;Yeməklər;20;1;20;Nağd;Qadın;Günorta
+918;12.11.2022;Hamburger;Yeməklər;20;6;120;Nağd;Kişi;Akşamüstü
+924;17.12.2022;Hamburger;Yeməklər;20;14;280;Nağd;Kişi;Günorta
+937;22.06.2022;Hamburger;Yeməklər;20;4;80;Nağd;Kişi;Gecə
+949;7.01.2023;Hamburger;Yeməklər;20;1;20;Nağd;Qadın;Akşamüstü
+951;11.11.2022;Hamburger;Yeməklər;20;11;220;Nağd;Qadın;Günorta
+957;8.02.2023;Hamburger;Yeməklər;20;3;60;Kart;Qadın;Gecə yarısı
+966;19.03.2023;Hamburger;Yeməklər;20;11;220;Kart;Qadın;Səhər
+981;22.01.2023;Hamburger;Yeməklər;20;15;300;Kart;Kişi;Gecə yarısı
+994;1.11.2022;Hamburger;Yeməklər;20;2;40;Kart;Qadın;Akşamüstü
+2;23.08.2022;Toyuq plov;Yeməklər;20;15;300;Nağd;Kişi;Günorta
+3;20.11.2022;Toyuq plov;Yeməklər;20;1;20;Nağd;Kişi;Günorta
+6;14.11.2022;Toyuq plov;Yeməklər;20;10;200;Nağd;Kişi;Akşamüstü
+12;12.07.2022;Toyuq plov;Yeməklər;20;8;160;Kart;Qadın;Gecə
+35;22.05.2022;Toyuq plov;Yeməklər;20;8;160;Nağd;Kişi;Səhər
+39;14.05.2022;Toyuq plov;Yeməklər;20;2;40;Kart;Kişi;Akşamüstü
+43;26.05.2022;Toyuq plov;Yeməklər;20;1;20;Nağd;Kişi;Gecə
+46;7.05.2022;Toyuq plov;Yeməklər;20;7;140;Nağd;Kişi;Akşamüstü
+50;2.11.2022;Toyuq plov;Yeməklər;20;8;160;Nağd;Qadın;Gecə yarısı
+58;3.02.2023;Toyuq plov;Yeməklər;20;6;120;Kart;Qadın;Səhər
+59;1.07.2022;Toyuq plov;Yeməklər;20;5;100;Nağd;Kişi;Səhər
+61;25.12.2022;Toyuq plov;Yeməklər;20;14;280;Nağd;Qadın;Günorta
+69;10.01.2023;Toyuq plov;Yeməklər;20;7;140;Nağd;Kişi;Gecə yarısı
+76;17.08.2022;Toyuq plov;Yeməklər;20;9;180;Kart;Kişi;Səhər
+78;1.10.2022;Toyuq plov;Yeməklər;20;4;80;Nağd;Qadın;Akşamüstü
+90;29.10.2022;Toyuq plov;Yeməklər;20;15;300;Kart;Kişi;Gecə
+98;24.12.2022;Toyuq plov;Yeməklər;20;1;20;Kart;Kişi;Səhər
+101;26.03.2023;Toyuq plov;Yeməklər;20;3;60;Kart;Qadın;Səhər
+125;10.04.2022;Toyuq plov;Yeməklər;20;7;140;Nağd;Qadın;Gecə yarısı
+128;7.08.2022;Toyuq plov;Yeməklər;20;11;220;Kart;Kişi;Gecə yarısı
+132;5.12.2022;Toyuq plov;Yeməklər;20;4;80;Kart;Qadın;Gecə
+154;13.12.2022;Toyuq plov;Yeməklər;20;3;60;Nağd;Kişi;Gecə
+160;23.07.2022;Toyuq plov;Yeməklər;20;10;200;Kart;Kişi;Gecə
+169;20.06.2022;Toyuq plov;Yeməklər;20;6;120;Nağd;Kişi;Səhər
+171;2.03.2023;Toyuq plov;Yeməklər;20;11;220;Nağd;Qadın;Gecə yarısı
+180;1.12.2022;Toyuq plov;Yeməklər;20;6;120;Kart;Qadın;Günorta
+189;8.02.2023;Toyuq plov;Yeməklər;20;12;240;Kart;Kişi;Günorta
+192;26.10.2022;Toyuq plov;Yeməklər;20;2;40;Kart;Kişi;Gecə
+194;15.12.2022;Toyuq plov;Yeməklər;20;4;80;Nağd;Qadın;Səhər
+203;11.04.2022;Toyuq plov;Yeməklər;20;6;120;Kart;Qadın;Gecə yarısı
+232;23.04.2022;Toyuq plov;Yeməklər;20;13;260;Nağd;Qadın;Gecə
+238;26.04.2022;Toyuq plov;Yeməklər;20;13;260;Nağd;Kişi;Səhər
+245;3.10.2022;Toyuq plov;Yeməklər;20;2;40;Nağd;Qadın;Səhər
+246;16.11.2022;Toyuq plov;Yeməklər;20;10;200;Nağd;Kişi;Günorta
+252;26.03.2023;Toyuq plov;Yeməklər;20;8;160;Kart;Kişi;Gecə yarısı
+258;6.09.2022;Toyuq plov;Yeməklər;20;14;280;Nağd;Kişi;Gecə yarısı
+265;15.08.2022;Toyuq plov;Yeməklər;20;6;120;Nağd;Kişi;Gecə yarısı
+267;5.03.2023;Toyuq plov;Yeməklər;20;1;20;Nağd;Kişi;Səhər
+271;3.05.2022;Toyuq plov;Yeməklər;20;13;260;Nağd;Kişi;Akşamüstü
+275;4.02.2023;Toyuq plov;Yeməklər;20;15;300;Kart;Kişi;Gecə
+279;14.09.2022;Toyuq plov;Yeməklər;20;15;300;Nağd;Qadın;Günorta
+304;28.05.2022;Toyuq plov;Yeməklər;20;15;300;Kart;Kişi;Səhər
+307;13.02.2023;Toyuq plov;Yeməklər;20;8;160;Nağd;Kişi;Akşamüstü
+310;25.04.2022;Toyuq plov;Yeməklər;20;4;80;Nağd;Kişi;Günorta
+328;16.06.2022;Toyuq plov;Yeməklər;20;3;60;Kart;Kişi;Akşamüstü
+342;11.03.2023;Toyuq plov;Yeməklər;20;7;140;Kart;Kişi;Günorta
+348;19.09.2022;Toyuq plov;Yeməklər;20;1;20;Kart;Qadın;Gecə yarısı
+353;18.05.2022;Toyuq plov;Yeməklər;20;4;80;Kart;Qadın;Gecə yarısı
+371;18.10.2022;Toyuq plov;Yeməklər;20;5;100;Kart;Qadın;Gecə
+378;24.04.2022;Toyuq plov;Yeməklər;20;2;40;Nağd;Qadın;Gecə yarısı
+381;26.02.2023;Toyuq plov;Yeməklər;20;1;20;Kart;Kişi;Səhər
+385;25.04.2022;Toyuq plov;Yeməklər;20;5;100;Nağd;Kişi;Səhər
+408;5.10.2022;Toyuq plov;Yeməklər;20;4;80;Kart;Kişi;Gecə yarısı
+415;5.12.2022;Toyuq plov;Yeməklər;20;8;160;Kart;Kişi;Akşamüstü
+448;27.07.2022;Toyuq plov;Yeməklər;20;6;120;Nağd;Qadın;Akşamüstü
+459;8.06.2022;Toyuq plov;Yeməklər;20;14;280;Nağd;Kişi;Gecə
+462;24.04.2022;Toyuq plov;Yeməklər;20;3;60;Nağd;Kişi;Səhər
+470;29.09.2022;Toyuq plov;Yeməklər;20;8;160;Nağd;Qadın;Səhər
+480;2.10.2022;Toyuq plov;Yeməklər;20;12;240;Nağd;Kişi;Akşamüstü
+486;14.02.2023;Toyuq plov;Yeməklər;20;6;120;Nağd;Qadın;Gecə yarısı
+491;31.05.2022;Toyuq plov;Yeməklər;20;2;40;Kart;Qadın;Gecə yarısı
+500;8.04.2022;Toyuq plov;Yeməklər;20;4;80;Kart;Qadın;Gecə yarısı
+509;26.10.2022;Toyuq plov;Yeməklər;20;11;220;Kart;Kişi;Akşamüstü
+525;4.05.2022;Toyuq plov;Yeməklər;20;3;60;Nağd;Kişi;Gecə yarısı
+534;16.05.2022;Toyuq plov;Yeməklər;20;2;40;Kart;Qadın;Gecə
+540;27.05.2022;Toyuq plov;Yeməklər;20;13;260;Nağd;Kişi;Günorta
+556;27.02.2023;Toyuq plov;Yeməklər;20;9;180;Nağd;Qadın;Gecə
+575;24.12.2022;Toyuq plov;Yeməklər;20;1;20;Kart;Qadın;Gecə yarısı
+585;5.03.2023;Toyuq plov;Yeməklər;20;11;220;Nağd;Qadın;Səhər
+603;31.08.2022;Toyuq plov;Yeməklər;20;10;200;Nağd;Qadın;Günorta
+607;15.12.2022;Toyuq plov;Yeməklər;20;9;180;Nağd;Qadın;Günorta
+613;10.06.2022;Toyuq plov;Yeməklər;20;5;100;Kart;Qadın;Gecə
+616;15.07.2022;Toyuq plov;Yeməklər;20;6;120;Kart;Qadın;Gecə yarısı
+635;6.02.2023;Toyuq plov;Yeməklər;20;15;300;Kart;Qadın;Gecə
+639;26.01.2023;Toyuq plov;Yeməklər;20;14;280;Nağd;Qadın;Səhər
+641;9.02.2023;Toyuq plov;Yeməklər;20;15;300;Nağd;Kişi;Günorta
+646;30.08.2022;Toyuq plov;Yeməklər;20;14;280;Kart;Qadın;Günorta
+647;5.06.2022;Toyuq plov;Yeməklər;20;3;60;Nağd;Kişi;Günorta
+654;4.03.2023;Toyuq plov;Yeməklər;20;9;180;Nağd;Qadın;Səhər
+667;28.09.2022;Toyuq plov;Yeməklər;20;3;60;Nağd;Qadın;Akşamüstü
+684;18.09.2022;Toyuq plov;Yeməklər;20;5;100;Nağd;Kişi;Günorta
+687;18.12.2022;Toyuq plov;Yeməklər;20;10;200;Nağd;Qadın;Gecə yarısı
+689;13.08.2022;Toyuq plov;Yeməklər;20;6;120;Nağd;Qadın;Günorta
+690;5.10.2022;Toyuq plov;Yeməklər;20;9;180;Nağd;Qadın;Gecə
+712;17.12.2022;Toyuq plov;Yeməklər;20;3;60;Kart;Qadın;Gecə yarısı
+719;9.05.2022;Toyuq plov;Yeməklər;20;15;300;Nağd;Qadın;Gecə yarısı
+725;4.07.2022;Toyuq plov;Yeməklər;20;6;120;Kart;Qadın;Günorta
+728;3.08.2022;Toyuq plov;Yeməklər;20;1;20;Kart;Kişi;Gecə yarısı
+749;31.08.2022;Toyuq plov;Yeməklər;20;11;220;Nağd;Kişi;Səhər
+751;16.09.2022;Toyuq plov;Yeməklər;20;2;40;Nağd;Kişi;Günorta
+758;25.09.2022;Toyuq plov;Yeməklər;20;3;60;Nağd;Qadın;Akşamüstü
+762;9.04.2022;Toyuq plov;Yeməklər;20;12;240;Kart;Qadın;Gecə yarısı
+774;15.03.2023;Toyuq plov;Yeməklər;20;1;20;Kart;Qadın;Gecə
+784;9.07.2022;Toyuq plov;Yeməklər;20;8;160;Nağd;Qadın;Səhər
+792;25.02.2023;Toyuq plov;Yeməklər;20;2;40;Nağd;Qadın;Səhər
+795;10.01.2023;Toyuq plov;Yeməklər;20;9;180;Nağd;Kişi;Akşamüstü
+806;23.05.2022;Toyuq plov;Yeməklər;20;3;60;Kart;Kişi;Akşamüstü
+810;27.12.2022;Toyuq plov;Yeməklər;20;3;60;Kart;Kişi;Səhər
+814;5.10.2022;Toyuq plov;Yeməklər;20;13;260;Nağd;Qadın;Gecə yarısı
+819;12.10.2022;Toyuq plov;Yeməklər;20;10;200;Nağd;Kişi;Akşamüstü
+824;18.01.2023;Toyuq plov;Yeməklər;20;2;40;Kart;Qadın;Akşamüstü
+836;31.08.2022;Toyuq plov;Yeməklər;20;2;40;Nağd;Qadın;Gecə yarısı
+841;3.02.2023;Toyuq plov;Yeməklər;20;9;180;Nağd;Kişi;Gecə
+850;20.08.2022;Toyuq plov;Yeməklər;20;3;60;Kart;Qadın;Günorta
+855;23.10.2022;Toyuq plov;Yeməklər;20;5;100;Kart;Kişi;Akşamüstü
+875;5.08.2022;Toyuq plov;Yeməklər;20;15;300;Nağd;Kişi;Akşamüstü
+884;1.03.2023;Toyuq plov;Yeməklər;20;12;240;Kart;Kişi;Gecə
+888;5.09.2022;Toyuq plov;Yeməklər;20;8;160;Nağd;Kişi;Akşamüstü
+889;12.04.2022;Toyuq plov;Yeməklər;20;10;200;Kart;Kişi;Gecə yarısı
+901;24.12.2022;Toyuq plov;Yeməklər;20;7;140;Kart;Qadın;Səhər
+917;15.05.2022;Toyuq plov;Yeməklər;20;15;300;Kart;Kişi;Akşamüstü
+919;3.01.2023;Toyuq plov;Yeməklər;20;8;160;Kart;Qadın;Akşamüstü
+921;21.09.2022;Toyuq plov;Yeməklər;20;14;280;Nağd;Kişi;Gecə yarısı
+939;19.02.2023;Toyuq plov;Yeməklər;20;15;300;Kart;Kişi;Gecə yarısı
+943;30.06.2022;Toyuq plov;Yeməklər;20;6;120;Nağd;Qadın;Gecə
+959;28.11.2022;Toyuq plov;Yeməklər;20;8;160;Kart;Qadın;Gecə yarısı
+963;5.10.2022;Toyuq plov;Yeməklər;20;6;120;Nağd;Qadın;Səhər
+974;28.01.2023;Toyuq plov;Yeməklər;20;13;260;Kart;Kişi;Günorta
+980;20.06.2022;Toyuq plov;Yeməklər;20;9;180;Kart;Kişi;Səhər
+987;4.01.2023;Toyuq plov;Yeməklər;20;3;60;Nağd;Qadın;Akşamüstü
+990;24.11.2022;Toyuq plov;Yeməklər;20;10;200;Kart;Qadın;Səhər
+15;3.02.2023;Salatlar;Yeməklər;20;3;60;Nağd;Qadın;Akşamüstü
+33;5.02.2023;Salatlar;Yeməklər;20;13;260;Kart;Kişi;Gecə
+42;9.05.2022;Salatlar;Yeməklər;20;8;160;Kart;Qadın;Gecə
+53;26.07.2022;Salatlar;Yeməklər;20;13;260;Nağd;Kişi;Günorta
+65;25.07.2022;Salatlar;Yeməklər;20;4;80;Nağd;Kişi;Səhər
+67;15.05.2022;Salatlar;Yeməklər;20;9;180;Nağd;Kişi;Gecə yarısı
+85;19.08.2022;Salatlar;Yeməklər;20;3;60;Kart;Qadın;Gecə
+86;9.03.2023;Salatlar;Yeməklər;20;15;300;Nağd;Kişi;Səhər
+87;29.05.2022;Salatlar;Yeməklər;20;8;160;Nağd;Kişi;Gecə
+89;23.12.2022;Salatlar;Yeməklər;20;14;280;Nağd;Kişi;Akşamüstü
+92;13.05.2022;Salatlar;Yeməklər;20;15;300;Nağd;Kişi;Günorta
+113;12.12.2022;Salatlar;Yeməklər;20;8;160;Nağd;Kişi;Günorta
+114;14.08.2022;Salatlar;Yeməklər;20;10;200;Kart;Kişi;Günorta
+133;20.12.2022;Salatlar;Yeməklər;20;5;100;Kart;Kişi;Gecə yarısı
+134;17.07.2022;Salatlar;Yeməklər;20;12;240;Kart;Qadın;Gecə
+135;14.01.2023;Salatlar;Yeməklər;20;8;160;Kart;Kişi;Gecə yarısı
+136;24.08.2022;Salatlar;Yeməklər;20;15;300;Kart;Kişi;Səhər
+162;7.05.2022;Salatlar;Yeməklər;20;11;220;Nağd;Kişi;Gecə yarısı
+174;3.09.2022;Salatlar;Yeməklər;20;2;40;Kart;Kişi;Akşamüstü
+178;9.12.2022;Salatlar;Yeməklər;20;2;40;Nağd;Qadın;Səhər
+187;11.10.2022;Salatlar;Yeməklər;20;15;300;Nağd;Qadın;Səhər
+202;21.09.2022;Salatlar;Yeməklər;20;9;180;Nağd;Kişi;Günorta
+206;27.07.2022;Salatlar;Yeməklər;20;4;80;Nağd;Kişi;Gecə
+209;4.12.2022;Salatlar;Yeməklər;20;2;40;Nağd;Kişi;Gecə
+211;18.04.2022;Salatlar;Yeməklər;20;12;240;Nağd;Kişi;Səhər
+219;1.10.2022;Salatlar;Yeməklər;20;9;180;Nağd;Qadın;Akşamüstü
+226;12.12.2022;Salatlar;Yeməklər;20;13;260;Kart;Qadın;Günorta
+256;16.03.2023;Salatlar;Yeməklər;20;3;60;Kart;Qadın;Gecə yarısı
+287;6.08.2022;Salatlar;Yeməklər;20;3;60;Nağd;Kişi;Səhər
+289;28.11.2022;Salatlar;Yeməklər;20;7;140;Kart;Qadın;Gecə yarısı
+294;23.09.2022;Salatlar;Yeməklər;20;1;20;Nağd;Qadın;Akşamüstü
+299;22.07.2022;Salatlar;Yeməklər;20;1;20;Kart;Qadın;Akşamüstü
+300;27.06.2022;Salatlar;Yeməklər;20;8;160;Nağd;Kişi;Günorta
+302;21.03.2023;Salatlar;Yeməklər;20;14;280;Nağd;Kişi;Gecə
+317;10.03.2023;Salatlar;Yeməklər;20;12;240;Kart;Qadın;Günorta
+318;21.12.2022;Salatlar;Yeməklər;20;10;200;Kart;Qadın;Gecə yarısı
+323;29.12.2022;Salatlar;Yeməklər;20;4;80;Nağd;Kişi;Səhər
+337;15.10.2022;Salatlar;Yeməklər;20;14;280;Kart;Qadın;Gecə yarısı
+358;27.10.2022;Salatlar;Yeməklər;20;6;120;Nağd;Kişi;Gecə
+359;27.08.2022;Salatlar;Yeməklər;20;13;260;Kart;Qadın;Gecə
+383;6.05.2022;Salatlar;Yeməklər;20;7;140;Kart;Qadın;Səhər
+391;21.04.2022;Salatlar;Yeməklər;20;1;20;Kart;Qadın;Gecə
+392;18.09.2022;Salatlar;Yeməklər;20;15;300;Kart;Kişi;Gecə
+397;6.07.2022;Salatlar;Yeməklər;20;2;40;Kart;Qadın;Günorta
+409;15.09.2022;Salatlar;Yeməklər;20;9;180;Nağd;Qadın;Səhər
+410;23.11.2022;Salatlar;Yeməklər;20;15;300;Kart;Kişi;Günorta
+413;3.04.2022;Salatlar;Yeməklər;20;10;200;Kart;Qadın;Gecə yarısı
+434;21.08.2022;Salatlar;Yeməklər;20;12;240;Nağd;Kişi;Səhər
+440;28.11.2022;Salatlar;Yeməklər;20;7;140;Nağd;Kişi;Günorta
+441;2.11.2022;Salatlar;Yeməklər;20;1;20;Kart;Qadın;Gecə yarısı
+460;20.11.2022;Salatlar;Yeməklər;20;2;40;Nağd;Kişi;Səhər
+467;17.10.2022;Salatlar;Yeməklər;20;11;220;Kart;Kişi;Səhər
+476;2.02.2023;Salatlar;Yeməklər;20;10;200;Nağd;Kişi;Səhər
+482;31.01.2023;Salatlar;Yeməklər;20;1;20;Kart;Kişi;Günorta
+485;26.02.2023;Salatlar;Yeməklər;20;6;120;Nağd;Qadın;Gecə yarısı
+495;20.10.2022;Salatlar;Yeməklər;20;13;260;Kart;Qadın;Gecə yarısı
+503;4.11.2022;Salatlar;Yeməklər;20;13;260;Nağd;Qadın;Səhər
+507;14.12.2022;Salatlar;Yeməklər;20;14;280;Kart;Qadın;Səhər
+518;9.12.2022;Salatlar;Yeməklər;20;6;120;Nağd;Qadın;Səhər
+524;1.05.2022;Salatlar;Yeməklər;20;13;260;Kart;Kişi;Günorta
+543;10.04.2022;Salatlar;Yeməklər;20;15;300;Nağd;Qadın;Akşamüstü
+546;9.07.2022;Salatlar;Yeməklər;20;1;20;Nağd;Qadın;Gecə yarısı
+574;22.10.2022;Salatlar;Yeməklər;20;1;20;Nağd;Qadın;Gecə
+582;12.05.2022;Salatlar;Yeməklər;20;13;260;Nağd;Kişi;Səhər
+587;9.04.2022;Salatlar;Yeməklər;20;10;200;Nağd;Qadın;Gecə
+601;1.11.2022;Salatlar;Yeməklər;20;12;240;Kart;Kişi;Səhər
+602;27.08.2022;Salatlar;Yeməklər;20;10;200;Nağd;Kişi;Gecə
+608;28.02.2023;Salatlar;Yeməklər;20;1;20;Kart;Kişi;Gecə yarısı
+611;25.06.2022;Salatlar;Yeməklər;20;2;40;Kart;Qadın;Səhər
+612;6.02.2023;Salatlar;Yeməklər;20;3;60;Kart;Kişi;Gecə yarısı
+621;13.02.2023;Salatlar;Yeməklər;20;2;40;Kart;Qadın;Akşamüstü
+637;14.05.2022;Salatlar;Yeməklər;20;7;140;Nağd;Kişi;Gecə yarısı
+665;6.05.2022;Salatlar;Yeməklər;20;14;280;Kart;Qadın;Akşamüstü
+668;11.05.2022;Salatlar;Yeməklər;20;4;80;Kart;Kişi;Səhər
+678;23.05.2022;Salatlar;Yeməklər;20;3;60;Kart;Kişi;Akşamüstü
+682;11.10.2022;Salatlar;Yeməklər;20;14;280;Kart;Kişi;Gecə yarısı
+685;20.05.2022;Salatlar;Yeməklər;20;3;60;Nağd;Qadın;Günorta
+711;30.10.2022;Salatlar;Yeməklər;20;3;60;Nağd;Kişi;Günorta
+718;28.12.2022;Salatlar;Yeməklər;20;2;40;Kart;Kişi;Günorta
+727;25.08.2022;Salatlar;Yeməklər;20;5;100;Nağd;Qadın;Gecə yarısı
+739;6.06.2022;Salatlar;Yeməklər;20;11;220;Kart;Kişi;Gecə
+740;30.07.2022;Salatlar;Yeməklər;20;9;180;Nağd;Kişi;Gecə yarısı
+741;16.07.2022;Salatlar;Yeməklər;20;5;100;Kart;Kişi;Günorta
+745;11.09.2022;Salatlar;Yeməklər;20;2;40;Kart;Kişi;Akşamüstü
+755;2.01.2023;Salatlar;Yeməklər;20;12;240;Nağd;Qadın;Gecə
+770;22.02.2023;Salatlar;Yeməklər;20;8;160;Nağd;Qadın;Səhər
+781;27.05.2022;Salatlar;Yeməklər;20;10;200;Kart;Kişi;Gecə yarısı
+782;16.12.2022;Salatlar;Yeməklər;20;5;100;Kart;Kişi;Gecə
+783;29.04.2022;Salatlar;Yeməklər;20;8;160;Nağd;Kişi;Səhər
+785;7.12.2022;Salatlar;Yeməklər;20;2;40;Kart;Kişi;Günorta
+787;25.03.2023;Salatlar;Yeməklər;20;2;40;Nağd;Qadın;Günorta
+801;28.04.2022;Salatlar;Yeməklər;20;7;140;Nağd;Qadın;Akşamüstü
+811;2.03.2023;Salatlar;Yeməklər;20;13;260;Nağd;Kişi;Günorta
+817;21.05.2022;Salatlar;Yeməklər;20;12;240;Nağd;Qadın;Akşamüstü
+821;24.07.2022;Salatlar;Yeməklər;20;12;240;Nağd;Qadın;Gecə yarısı
+837;19.05.2022;Salatlar;Yeməklər;20;7;140;Nağd;Kişi;Gecə yarısı
+846;20.04.2022;Salatlar;Yeməklər;20;5;100;Kart;Kişi;Günorta
+851;28.01.2023;Salatlar;Yeməklər;20;15;300;Kart;Qadın;Gecə
+856;4.05.2022;Salatlar;Yeməklər;20;11;220;Nağd;Qadın;Gecə
+868;17.08.2022;Salatlar;Yeməklər;20;13;260;Nağd;Qadın;Akşamüstü
+883;24.08.2022;Salatlar;Yeməklər;20;5;100;Kart;Qadın;Gecə yarısı
+887;24.10.2022;Salatlar;Yeməklər;20;3;60;Nağd;Kişi;Səhər
+896;30.10.2022;Salatlar;Yeməklər;20;13;260;Nağd;Kişi;Gecə
+897;22.08.2022;Salatlar;Yeməklər;20;6;120;Kart;Kişi;Səhər
+899;24.01.2023;Salatlar;Yeməklər;20;7;140;Nağd;Kişi;Gecə yarısı
+903;1.01.2023;Salatlar;Yeməklər;20;15;300;Kart;Kişi;Gecə
+904;12.03.2023;Salatlar;Yeməklər;20;4;80;Nağd;Qadın;Gecə yarısı
+912;17.09.2022;Salatlar;Yeməklər;20;6;120;Nağd;Kişi;Akşamüstü
+931;26.06.2022;Salatlar;Yeməklər;20;15;300;Nağd;Kişi;Günorta
+944;12.05.2022;Salatlar;Yeməklər;20;2;40;Nağd;Kişi;Gecə yarısı
+947;16.08.2022;Salatlar;Yeməklər;20;11;220;Kart;Kişi;Gecə
+952;24.09.2022;Salatlar;Yeməklər;20;14;280;Nağd;Qadın;Akşamüstü
+954;31.01.2023;Salatlar;Yeməklər;20;3;60;Nağd;Qadın;Gecə yarısı
+970;21.11.2022;Salatlar;Yeməklər;20;5;100;Kart;Qadın;Günorta
+972;11.03.2023;Salatlar;Yeməklər;20;1;20;Nağd;Qadın;Günorta
+975;15.01.2023;Salatlar;Yeməklər;20;1;20;Nağd;Kişi;Gecə yarısı
+977;5.01.2023;Salatlar;Yeməklər;20;1;20;Nağd;Kişi;Akşamüstü
+979;21.05.2022;Salatlar;Yeməklər;20;13;260;Nağd;Qadın;Gecə yarısı
+1000;29.05.2022;Salatlar;Yeməklər;20;3;60;Kart;Qadın;Gecə yarısı
+23;26.05.2022;Sandwich;Yeməklər;60;3;180;Kart;Kişi;Gecə yarısı
+25;31.08.2022;Sandwich;Yeməklər;60;1;60;Kart;Qadın;Akşamüstü
+40;5.02.2023;Sandwich;Yeməklər;60;5;300;Kart;Qadın;Gecə
+48;23.02.2023;Sandwich;Yeməklər;60;14;840;Kart;Kişi;Günorta
+55;7.05.2022;Sandwich;Yeməklər;60;10;600;Nağd;Kişi;Gecə
+63;1.12.2022;Sandwich;Yeməklər;60;7;420;Kart;Qadın;Səhər
+107;7.02.2023;Sandwich;Yeməklər;60;4;240;Kart;Kişi;Günorta
+111;4.09.2022;Sandwich;Yeməklər;60;8;480;Nağd;Qadın;Gecə yarısı
+112;24.02.2023;Sandwich;Yeməklər;60;7;420;Nağd;Kişi;Səhər
+118;6.07.2022;Sandwich;Yeməklər;60;1;60;Kart;Kişi;Gecə yarısı
+131;19.01.2023;Sandwich;Yeməklər;60;8;480;Nağd;Kişi;Gecə
+138;1.09.2022;Sandwich;Yeməklər;60;15;900;Kart;Kişi;Gecə
+145;9.10.2022;Sandwich;Yeməklər;60;14;840;Kart;Kişi;Səhər
+148;19.03.2023;Sandwich;Yeməklər;60;13;780;Kart;Kişi;Akşamüstü
+149;9.08.2022;Sandwich;Yeməklər;60;7;420;Kart;Kişi;Səhər
+165;5.01.2023;Sandwich;Yeməklər;60;11;660;Nağd;Kişi;Gecə yarısı
+168;19.04.2022;Sandwich;Yeməklər;60;4;240;Nağd;Qadın;Gecə yarısı
+195;23.04.2022;Sandwich;Yeməklər;60;4;240;Nağd;Qadın;Gecə
+196;25.06.2022;Sandwich;Yeməklər;60;3;180;Nağd;Kişi;Akşamüstü
+221;26.03.2023;Sandwich;Yeməklər;60;1;60;Kart;Kişi;Akşamüstü
+222;11.09.2022;Sandwich;Yeməklər;60;6;360;Nağd;Qadın;Səhər
+235;29.11.2022;Sandwich;Yeməklər;60;10;600;Nağd;Qadın;Günorta
+240;11.12.2022;Sandwich;Yeməklər;60;10;600;Nağd;Qadın;Səhər
+244;22.11.2022;Sandwich;Yeməklər;60;10;600;Kart;Qadın;Gecə yarısı
+257;3.01.2023;Sandwich;Yeməklər;60;10;600;Nağd;Qadın;Gecə yarısı
+259;18.11.2022;Sandwich;Yeməklər;60;4;240;Kart;Kişi;Səhər
+270;7.09.2022;Sandwich;Yeməklər;60;13;780;Nağd;Kişi;Akşamüstü
+281;9.08.2022;Sandwich;Yeməklər;60;3;180;Nağd;Qadın;Günorta
+288;22.08.2022;Sandwich;Yeməklər;60;7;420;Nağd;Kişi;Gecə
+295;21.07.2022;Sandwich;Yeməklər;60;7;420;Nağd;Kişi;Gecə yarısı
+297;30.04.2022;Sandwich;Yeməklər;60;10;600;Kart;Kişi;Akşamüstü
+308;17.12.2022;Sandwich;Yeməklər;60;13;780;Kart;Kişi;Akşamüstü
+309;14.10.2022;Sandwich;Yeməklər;60;8;480;Kart;Kişi;Akşamüstü
+326;3.05.2022;Sandwich;Yeməklər;60;8;480;Nağd;Kişi;Akşamüstü
+357;21.09.2022;Sandwich;Yeməklər;60;9;540;Kart;Qadın;Günorta
+369;3.07.2022;Sandwich;Yeməklər;60;2;120;Kart;Qadın;Akşamüstü
+380;20.10.2022;Sandwich;Yeməklər;60;5;300;Kart;Qadın;Günorta
+388;9.10.2022;Sandwich;Yeməklər;60;14;840;Nağd;Kişi;Akşamüstü
+389;22.12.2022;Sandwich;Yeməklər;60;12;720;Nağd;Qadın;Akşamüstü
+394;3.04.2022;Sandwich;Yeməklər;60;1;60;Nağd;Qadın;Səhər
+395;31.01.2023;Sandwich;Yeməklər;60;3;180;Nağd;Qadın;Akşamüstü
+427;21.05.2022;Sandwich;Yeməklər;60;2;120;Kart;Kişi;Günorta
+430;5.11.2022;Sandwich;Yeməklər;60;4;240;Kart;Kişi;Gecə
+435;8.05.2022;Sandwich;Yeməklər;60;1;60;Nağd;Qadın;Günorta
+445;22.10.2022;Sandwich;Yeməklər;60;14;840;Kart;Qadın;Səhər
+453;20.10.2022;Sandwich;Yeməklər;60;1;60;Kart;Qadın;Gecə yarısı
+454;7.03.2023;Sandwich;Yeməklər;60;1;60;Kart;Qadın;Akşamüstü
+463;11.06.2022;Sandwich;Yeməklər;60;6;360;Kart;Kişi;Gecə yarısı
+469;15.05.2022;Sandwich;Yeməklər;60;7;420;Kart;Qadın;Səhər
+473;4.09.2022;Sandwich;Yeməklər;60;5;300;Nağd;Qadın;Akşamüstü
+477;13.02.2023;Sandwich;Yeməklər;60;15;900;Nağd;Qadın;Gecə yarısı
+479;13.02.2023;Sandwich;Yeməklər;60;11;660;Nağd;Qadın;Günorta
+487;27.05.2022;Sandwich;Yeməklər;60;9;540;Nağd;Qadın;Gecə yarısı
+492;11.07.2022;Sandwich;Yeməklər;60;15;900;Nağd;Kişi;Günorta
+497;25.01.2023;Sandwich;Yeməklər;60;7;420;Nağd;Kişi;Gecə yarısı
+499;27.07.2022;Sandwich;Yeməklər;60;8;480;Kart;Qadın;Akşamüstü
+508;10.12.2022;Sandwich;Yeməklər;60;1;60;Nağd;Kişi;Gecə
+510;4.04.2022;Sandwich;Yeməklər;60;14;840;Kart;Kişi;Günorta
+526;4.07.2022;Sandwich;Yeməklər;60;10;600;Nağd;Qadın;Akşamüstü
+535;5.09.2022;Sandwich;Yeməklər;60;4;240;Kart;Kişi;Gecə yarısı
+544;14.12.2022;Sandwich;Yeməklər;60;15;900;Kart;Qadın;Səhər
+545;1.01.2023;Sandwich;Yeməklər;60;13;780;Kart;Qadın;Gecə yarısı
+555;16.04.2022;Sandwich;Yeməklər;60;6;360;Nağd;Qadın;Akşamüstü
+557;30.06.2022;Sandwich;Yeməklər;60;2;120;Nağd;Qadın;Akşamüstü
+572;2.04.2022;Sandwich;Yeməklər;60;15;900;Nağd;Kişi;Günorta
+586;22.05.2022;Sandwich;Yeməklər;60;15;900;Kart;Kişi;Gecə
+591;1.10.2022;Sandwich;Yeməklər;60;13;780;Nağd;Qadın;Səhər
+624;8.03.2023;Sandwich;Yeməklər;60;9;540;Nağd;Qadın;Səhər
+625;17.06.2022;Sandwich;Yeməklər;60;15;900;Kart;Kişi;Səhər
+640;4.01.2023;Sandwich;Yeməklər;60;15;900;Kart;Kişi;Gecə
+645;26.07.2022;Sandwich;Yeməklər;60;9;540;Nağd;Qadın;Gecə
+648;27.05.2022;Sandwich;Yeməklər;60;7;420;Nağd;Kişi;Gecə
+650;7.04.2022;Sandwich;Yeməklər;60;13;780;Kart;Qadın;Səhər
+651;11.07.2022;Sandwich;Yeməklər;60;10;600;Kart;Qadın;Gecə yarısı
+656;28.11.2022;Sandwich;Yeməklər;60;6;360;Kart;Qadın;Gecə yarısı
+660;25.07.2022;Sandwich;Yeməklər;60;9;540;Nağd;Qadın;Gecə
+669;18.03.2023;Sandwich;Yeməklər;60;11;660;Kart;Kişi;Akşamüstü
+671;9.10.2022;Sandwich;Yeməklər;60;2;120;Kart;Kişi;Günorta
+673;17.09.2022;Sandwich;Yeməklər;60;12;720;Nağd;Kişi;Gecə yarısı
+675;17.04.2022;Sandwich;Yeməklər;60;12;720;Nağd;Kişi;Gecə
+679;2.11.2022;Sandwich;Yeməklər;60;12;720;Kart;Kişi;Səhər
+691;1.04.2022;Sandwich;Yeməklər;60;7;420;Nağd;Qadın;Akşamüstü
+704;14.08.2022;Sandwich;Yeməklər;60;1;60;Kart;Qadın;Akşamüstü
+705;7.10.2022;Sandwich;Yeməklər;60;6;360;Kart;Kişi;Akşamüstü
+708;15.03.2023;Sandwich;Yeməklər;60;5;300;Nağd;Qadın;Gecə yarısı
+715;12.04.2022;Sandwich;Yeməklər;60;1;60;Kart;Kişi;Səhər
+729;24.11.2022;Sandwich;Yeməklər;60;7;420;Nağd;Kişi;Gecə
+738;1.03.2023;Sandwich;Yeməklər;60;4;240;Kart;Qadın;Səhər
+748;20.09.2022;Sandwich;Yeməklər;60;14;840;Nağd;Qadın;Gecə
+764;14.02.2023;Sandwich;Yeməklər;60;7;420;Nağd;Qadın;Gecə
+765;15.06.2022;Sandwich;Yeməklər;60;13;780;Nağd;Kişi;Gecə
+766;19.06.2022;Sandwich;Yeməklər;60;10;600;Kart;Qadın;Səhər
+768;12.01.2023;Sandwich;Yeməklər;60;14;840;Nağd;Kişi;Günorta
+775;27.03.2023;Sandwich;Yeməklər;60;6;360;Nağd;Kişi;Gecə
+786;13.03.2023;Sandwich;Yeməklər;60;14;840;Kart;Qadın;Gecə
+793;30.08.2022;Sandwich;Yeməklər;60;6;360;Nağd;Qadın;Gecə
+802;23.01.2023;Sandwich;Yeməklər;60;7;420;Kart;Qadın;Günorta
+826;2.12.2022;Sandwich;Yeməklər;60;15;900;Nağd;Qadın;Gecə
+827;6.01.2023;Sandwich;Yeməklər;60;12;720;Nağd;Kişi;Gecə yarısı
+859;8.10.2022;Sandwich;Yeməklər;60;11;660;Nağd;Qadın;Gecə yarısı
+872;14.07.2022;Sandwich;Yeməklər;60;12;720;Nağd;Kişi;Günorta
+878;12.08.2022;Sandwich;Yeməklər;60;6;360;Kart;Kişi;Akşamüstü
+881;25.05.2022;Sandwich;Yeməklər;60;2;120;Nağd;Kişi;Gecə yarısı
+894;19.03.2023;Sandwich;Yeməklər;60;15;900;Nağd;Kişi;Səhər
+906;4.04.2022;Sandwich;Yeməklər;60;15;900;Nağd;Kişi;Günorta
+908;6.03.2023;Sandwich;Yeməklər;60;7;420;Nağd;Qadın;Gecə
+911;9.04.2022;Sandwich;Yeməklər;60;1;60;Nağd;Kişi;Akşamüstü
+914;1.03.2023;Sandwich;Yeməklər;60;14;840;Nağd;Kişi;Gecə
+928;7.04.2022;Sandwich;Yeməklər;60;11;660;Kart;Kişi;Akşamüstü
+932;18.10.2022;Sandwich;Yeməklər;60;9;540;Kart;Kişi;Günorta
+935;17.02.2023;Sandwich;Yeməklər;60;12;720;Nağd;Kişi;Gecə yarısı
+946;21.02.2023;Sandwich;Yeməklər;60;8;480;Nağd;Kişi;Gecə yarısı
+948;16.01.2023;Sandwich;Yeməklər;60;10;600;Kart;Kişi;Akşamüstü
+953;10.11.2022;Sandwich;Yeməklər;60;2;120;Kart;Qadın;Günorta
+958;22.05.2022;Sandwich;Yeməklər;60;11;660;Kart;Qadın;Gecə
+991;18.01.2023;Sandwich;Yeməklər;60;7;420;Nağd;Qadın;Gecə
+992;21.10.2022;Sandwich;Yeməklər;60;5;300;Nağd;Kişi;Səhər
+11;1.12.2022;Dürüm;Yeməklər;50;8;400;Kart;Qadın;Günorta
+14;25.11.2022;Dürüm;Yeməklər;50;4;200;Kart;Kişi;Səhər
+30;28.01.2023;Dürüm;Yeməklər;50;2;100;Nağd;Qadın;Gecə
+34;4.02.2023;Dürüm;Yeməklər;50;12;600;Kart;Qadın;Akşamüstü
+37;5.01.2023;Dürüm;Yeməklər;50;10;500;Nağd;Kişi;Gecə
+49;6.11.2022;Dürüm;Yeməklər;50;4;200;Kart;Qadın;Səhər
+51;16.05.2022;Dürüm;Yeməklər;50;15;750;Kart;Qadın;Səhər
+66;5.04.2022;Dürüm;Yeməklər;50;2;100;Nağd;Qadın;Səhər
+72;9.03.2023;Dürüm;Yeməklər;50;13;650;Kart;Kişi;Günorta
+80;24.05.2022;Dürüm;Yeməklər;50;13;650;Nağd;Kişi;Akşamüstü
+81;19.11.2022;Dürüm;Yeməklər;50;12;600;Kart;Qadın;Gecə
+82;17.07.2022;Dürüm;Yeməklər;50;3;150;Kart;Qadın;Akşamüstü
+106;25.02.2023;Dürüm;Yeməklər;50;9;450;Nağd;Qadın;Akşamüstü
+117;9.03.2023;Dürüm;Yeməklər;50;7;350;Kart;Qadın;Akşamüstü
+120;10.07.2022;Dürüm;Yeməklər;50;2;100;Nağd;Qadın;Akşamüstü
+139;26.02.2023;Dürüm;Yeməklər;50;11;550;Kart;Qadın;Gecə
+140;12.06.2022;Dürüm;Yeməklər;50;13;650;Nağd;Kişi;Gecə
+151;10.07.2022;Dürüm;Yeməklər;50;13;650;Kart;Qadın;Səhər
+157;24.02.2023;Dürüm;Yeməklər;50;7;350;Kart;Qadın;Gecə yarısı
+163;6.01.2023;Dürüm;Yeməklər;50;6;300;Kart;Qadın;Gecə yarısı
+175;17.10.2022;Dürüm;Yeməklər;50;12;600;Nağd;Qadın;Günorta
+186;15.03.2023;Dürüm;Yeməklər;50;2;100;Kart;Kişi;Günorta
+198;5.01.2023;Dürüm;Yeməklər;50;15;750;Nağd;Kişi;Səhər
+199;1.02.2023;Dürüm;Yeməklər;50;6;300;Kart;Qadın;Səhər
+225;16.03.2023;Dürüm;Yeməklər;50;11;550;Nağd;Qadın;Akşamüstü
+230;16.04.2022;Dürüm;Yeməklər;50;6;300;Kart;Kişi;Günorta
+239;4.12.2022;Dürüm;Yeməklər;50;4;200;Kart;Kişi;Akşamüstü
+248;17.04.2022;Dürüm;Yeməklər;50;5;250;Kart;Qadın;Gecə yarısı
+261;11.01.2023;Dürüm;Yeməklər;50;9;450;Nağd;Qadın;Gecə yarısı
+266;2.10.2022;Dürüm;Yeməklər;50;10;500;Kart;Qadın;Gecə
+272;29.07.2022;Dürüm;Yeməklər;50;5;250;Kart;Qadın;Gecə
+278;19.06.2022;Dürüm;Yeməklər;50;6;300;Kart;Qadın;Gecə
+291;27.01.2023;Dürüm;Yeməklər;50;8;400;Kart;Qadın;Gecə
+292;16.01.2023;Dürüm;Yeməklər;50;2;100;Nağd;Qadın;Gecə yarısı
+314;27.02.2023;Dürüm;Yeməklər;50;8;400;Kart;Qadın;Səhər
+316;2.11.2022;Dürüm;Yeməklər;50;4;200;Kart;Kişi;Səhər
+319;30.06.2022;Dürüm;Yeməklər;50;15;750;Nağd;Kişi;Günorta
+321;8.02.2023;Dürüm;Yeməklər;50;12;600;Nağd;Qadın;Akşamüstü
+327;29.11.2022;Dürüm;Yeməklər;50;15;750;Nağd;Qadın;Gecə yarısı
+341;19.03.2023;Dürüm;Yeməklər;50;9;450;Nağd;Qadın;Akşamüstü
+347;24.06.2022;Dürüm;Yeməklər;50;7;350;Nağd;Qadın;Günorta
+351;8.07.2022;Dürüm;Yeməklər;50;5;250;Kart;Qadın;Gecə
+352;25.05.2022;Dürüm;Yeməklər;50;11;550;Nağd;Qadın;Gecə
+363;9.05.2022;Dürüm;Yeməklər;50;9;450;Kart;Kişi;Günorta
+374;24.07.2022;Dürüm;Yeməklər;50;10;500;Kart;Kişi;Gecə yarısı
+376;4.12.2022;Dürüm;Yeməklər;50;15;750;Nağd;Kişi;Gecə yarısı
+386;23.11.2022;Dürüm;Yeməklər;50;5;250;Kart;Kişi;Gecə yarısı
+396;31.10.2022;Dürüm;Yeməklər;50;15;750;Kart;Kişi;Səhər
+402;19.03.2023;Dürüm;Yeməklər;50;7;350;Nağd;Kişi;Gecə
+404;26.11.2022;Dürüm;Yeməklər;50;7;350;Nağd;Qadın;Gecə yarısı
+420;30.01.2023;Dürüm;Yeməklər;50;13;650;Kart;Qadın;Akşamüstü
+423;21.10.2022;Dürüm;Yeməklər;50;7;350;Nağd;Qadın;Gecə
+426;20.01.2023;Dürüm;Yeməklər;50;14;700;Nağd;Kişi;Gecə yarısı
+436;5.01.2023;Dürüm;Yeməklər;50;10;500;Nağd;Kişi;Gecə yarısı
+439;30.09.2022;Dürüm;Yeməklər;50;13;650;Kart;Kişi;Günorta
+447;17.01.2023;Dürüm;Yeməklər;50;6;300;Kart;Qadın;Günorta
+449;9.09.2022;Dürüm;Yeməklər;50;4;200;Nağd;Kişi;Günorta
+452;25.12.2022;Dürüm;Yeməklər;50;5;250;Kart;Kişi;Günorta
+489;3.02.2023;Dürüm;Yeməklər;50;13;650;Kart;Qadın;Akşamüstü
+498;16.06.2022;Dürüm;Yeməklər;50;1;50;Nağd;Kişi;Gecə yarısı
+505;12.02.2023;Dürüm;Yeməklər;50;4;200;Nağd;Kişi;Gecə
+523;3.11.2022;Dürüm;Yeməklər;50;6;300;Nağd;Kişi;Günorta
+562;9.08.2022;Dürüm;Yeməklər;50;4;200;Nağd;Kişi;Günorta
+563;13.10.2022;Dürüm;Yeməklər;50;7;350;Kart;Qadın;Akşamüstü
+566;19.07.2022;Dürüm;Yeməklər;50;3;150;Nağd;Kişi;Akşamüstü
+573;7.09.2022;Dürüm;Yeməklər;50;2;100;Nağd;Kişi;Günorta
+578;30.06.2022;Dürüm;Yeməklər;50;5;250;Kart;Qadın;Gecə
+583;31.05.2022;Dürüm;Yeməklər;50;8;400;Nağd;Kişi;Gecə
+588;16.06.2022;Dürüm;Yeməklər;50;11;550;Nağd;Qadın;Səhər
+594;20.01.2023;Dürüm;Yeməklər;50;6;300;Nağd;Qadın;Səhər
+595;22.02.2023;Dürüm;Yeməklər;50;9;450;Kart;Kişi;Günorta
+599;3.10.2022;Dürüm;Yeməklər;50;13;650;Nağd;Kişi;Səhər
+604;8.09.2022;Dürüm;Yeməklər;50;10;500;Nağd;Qadın;Gecə
+610;8.05.2022;Dürüm;Yeməklər;50;13;650;Kart;Qadın;Akşamüstü
+618;8.04.2022;Dürüm;Yeməklər;50;1;50;Kart;Kişi;Akşamüstü
+649;5.11.2022;Dürüm;Yeməklər;50;9;450;Nağd;Kişi;Gecə yarısı
+653;30.05.2022;Dürüm;Yeməklər;50;10;500;Kart;Qadın;Gecə yarısı
+661;11.10.2022;Dürüm;Yeməklər;50;7;350;Kart;Qadın;Gecə yarısı
+664;31.10.2022;Dürüm;Yeməklər;50;10;500;Kart;Qadın;Səhər
+676;4.05.2022;Dürüm;Yeməklər;50;7;350;Nağd;Qadın;Akşamüstü
+681;9.12.2022;Dürüm;Yeməklər;50;9;450;Kart;Qadın;Gecə
+683;12.08.2022;Dürüm;Yeməklər;50;15;750;Nağd;Kişi;Gecə yarısı
+688;14.05.2022;Dürüm;Yeməklər;50;5;250;Kart;Kişi;Günorta
+692;13.01.2023;Dürüm;Yeməklər;50;14;700;Kart;Kişi;Günorta
+700;15.11.2022;Dürüm;Yeməklər;50;6;300;Nağd;Qadın;Akşamüstü
+706;5.02.2023;Dürüm;Yeməklər;50;8;400;Kart;Kişi;Gecə
+720;10.05.2022;Dürüm;Yeməklər;50;14;700;Nağd;Qadın;Səhər
+724;27.06.2022;Dürüm;Yeməklər;50;10;500;Nağd;Qadın;Gecə
+730;28.06.2022;Dürüm;Yeməklər;50;13;650;Nağd;Qadın;Günorta
+731;9.03.2023;Dürüm;Yeməklər;50;10;500;Nağd;Qadın;Günorta
+733;3.02.2023;Dürüm;Yeməklər;50;10;500;Nağd;Kişi;Akşamüstü
+734;7.10.2022;Dürüm;Yeməklər;50;7;350;Nağd;Kişi;Akşamüstü
+737;20.09.2022;Dürüm;Yeməklər;50;13;650;Kart;Qadın;Gecə
+744;25.06.2022;Dürüm;Yeməklər;50;10;500;Nağd;Qadın;Səhər
+750;1.02.2023;Dürüm;Yeməklər;50;1;50;Kart;Kişi;Akşamüstü
+767;26.02.2023;Dürüm;Yeməklər;50;8;400;Nağd;Qadın;Günorta
+769;7.06.2022;Dürüm;Yeməklər;50;8;400;Nağd;Kişi;Səhər
+776;7.02.2023;Dürüm;Yeməklər;50;10;500;Nağd;Kişi;Gecə yarısı
+778;11.06.2022;Dürüm;Yeməklər;50;13;650;Nağd;Kişi;Akşamüstü
+807;13.06.2022;Dürüm;Yeməklər;50;1;50;Kart;Qadın;Gecə yarısı
+818;28.02.2023;Dürüm;Yeməklər;50;6;300;Nağd;Kişi;Gecə
+831;1.08.2022;Dürüm;Yeməklər;50;5;250;Kart;Qadın;Səhər
+848;10.11.2022;Dürüm;Yeməklər;50;9;450;Nağd;Kişi;Gecə
+862;10.03.2023;Dürüm;Yeməklər;50;7;350;Kart;Kişi;Gecə
+863;8.09.2022;Dürüm;Yeməklər;50;9;450;Kart;Kişi;Gecə
+866;13.08.2022;Dürüm;Yeməklər;50;10;500;Kart;Kişi;Gecə yarısı
+867;26.01.2023;Dürüm;Yeməklər;50;15;750;Nağd;Kişi;Gecə yarısı
+898;2.03.2023;Dürüm;Yeməklər;50;8;400;Nağd;Kişi;Günorta
+902;23.11.2022;Dürüm;Yeməklər;50;4;200;Kart;Kişi;Günorta
+905;13.12.2022;Dürüm;Yeməklər;50;15;750;Nağd;Qadın;Gecə yarısı
+913;15.02.2023;Dürüm;Yeməklər;50;15;750;Kart;Kişi;Akşamüstü
+920;12.07.2022;Dürüm;Yeməklər;50;13;650;Kart;Kişi;Akşamüstü
+922;13.06.2022;Dürüm;Yeməklər;50;5;250;Kart;Qadın;Akşamüstü
+925;10.04.2022;Dürüm;Yeməklər;50;4;200;Kart;Qadın;Günorta
+926;27.02.2023;Dürüm;Yeməklər;50;15;750;Nağd;Qadın;Günorta
+929;6.06.2022;Dürüm;Yeməklər;50;9;450;Kart;Qadın;Gecə
+942;20.07.2022;Dürüm;Yeməklər;50;6;300;Nağd;Kişi;Gecə
+950;25.09.2022;Dürüm;Yeməklər;50;6;300;Kart;Qadın;Akşamüstü
+956;30.04.2022;Dürüm;Yeməklər;50;13;650;Kart;Kişi;Səhər
+961;14.03.2023;Dürüm;Yeməklər;50;13;650;Nağd;Kişi;Gecə
+962;18.05.2022;Dürüm;Yeməklər;50;13;650;Kart;Qadın;Günorta
+965;8.10.2022;Dürüm;Yeməklər;50;5;250;Kart;Qadın;Gecə
+971;2.10.2022;Dürüm;Yeməklər;50;2;100;Nağd;Qadın;Səhər
+978;8.10.2022;Dürüm;Yeməklər;50;2;100;Kart;Kişi;Gecə
+984;7.01.2023;Dürüm;Yeməklər;50;3;150;Nağd;Kişi;Günorta
+985;14.06.2022;Dürüm;Yeməklər;50;1;50;Nağd;Qadın;Günorta
+993;17.07.2022;Dürüm;Yeməklər;50;3;150;Kart;Qadın;Gecə
+4;3.02.2023;Portağal suyu;İçəcəkər;25;6;150;Kart;Kişi;Gecə
+5;2.10.2022;Portağal suyu;İçəcəkər;25;8;200;Kart;Kişi;Akşamüstü
+7;3.05.2022;Portağal suyu;İçəcəkər;25;9;225;Nağd;Kişi;Akşamüstü
+22;4.10.2022;Portağal suyu;İçəcəkər;25;12;300;Kart;Kişi;Akşamüstü
+24;11.02.2023;Portağal suyu;İçəcəkər;25;10;250;Kart;Kişi;Günorta
+26;18.08.2022;Portağal suyu;İçəcəkər;25;4;100;Nağd;Kişi;Günorta
+29;10.02.2023;Portağal suyu;İçəcəkər;25;9;225;Kart;Kişi;Günorta
+45;15.08.2022;Portağal suyu;İçəcəkər;25;6;150;Nağd;Qadın;Günorta
+52;16.03.2023;Portağal suyu;İçəcəkər;25;12;300;Nağd;Qadın;Gecə yarısı
+62;17.10.2022;Portağal suyu;İçəcəkər;25;3;75;Nağd;Kişi;Günorta
+77;4.02.2023;Portağal suyu;İçəcəkər;25;12;300;Nağd;Qadın;Gecə yarısı
+95;12.05.2022;Portağal suyu;İçəcəkər;25;8;200;Kart;Kişi;Gecə
+99;11.09.2022;Portağal suyu;İçəcəkər;25;3;75;Nağd;Kişi;Akşamüstü
+116;26.08.2022;Portağal suyu;İçəcəkər;25;13;325;Nağd;Kişi;Akşamüstü
+130;28.12.2022;Portağal suyu;İçəcəkər;25;7;175;Nağd;Kişi;Gecə
+142;30.12.2022;Portağal suyu;İçəcəkər;25;12;300;Nağd;Qadın;Səhər
+155;7.02.2023;Portağal suyu;İçəcəkər;25;10;250;Nağd;Qadın;Akşamüstü
+159;3.10.2022;Portağal suyu;İçəcəkər;25;1;25;Kart;Qadın;Günorta
+161;19.01.2023;Portağal suyu;İçəcəkər;25;12;300;Nağd;Kişi;Akşamüstü
+164;10.08.2022;Portağal suyu;İçəcəkər;25;7;175;Kart;Kişi;Günorta
+172;27.08.2022;Portağal suyu;İçəcəkər;25;6;150;Kart;Qadın;Gecə
+183;10.07.2022;Portağal suyu;İçəcəkər;25;5;125;Nağd;Qadın;Gecə yarısı
+191;20.05.2022;Portağal suyu;İçəcəkər;25;14;350;Nağd;Qadın;Səhər
+214;3.12.2022;Portağal suyu;İçəcəkər;25;14;350;Kart;Kişi;Akşamüstü
+220;13.05.2022;Portağal suyu;İçəcəkər;25;1;25;Nağd;Kişi;Günorta
+224;23.03.2023;Portağal suyu;İçəcəkər;25;14;350;Nağd;Kişi;Günorta
+241;6.06.2022;Portağal suyu;İçəcəkər;25;2;50;Nağd;Kişi;Günorta
+249;26.10.2022;Portağal suyu;İçəcəkər;25;3;75;Kart;Qadın;Günorta
+250;15.11.2022;Portağal suyu;İçəcəkər;25;6;150;Kart;Qadın;Gecə yarısı
+253;18.06.2022;Portağal suyu;İçəcəkər;25;13;325;Kart;Kişi;Günorta
+260;10.09.2022;Portağal suyu;İçəcəkər;25;2;50;Kart;Qadın;Gecə
+264;18.07.2022;Portağal suyu;İçəcəkər;25;12;300;Kart;Kişi;Səhər
+274;4.01.2023;Portağal suyu;İçəcəkər;25;10;250;Kart;Kişi;Gecə
+276;30.09.2022;Portağal suyu;İçəcəkər;25;6;150;Nağd;Kişi;Gecə yarısı
+298;19.07.2022;Portağal suyu;İçəcəkər;25;9;225;Nağd;Qadın;Günorta
+303;2.07.2022;Portağal suyu;İçəcəkər;25;1;25;Nağd;Qadın;Gecə yarısı
+320;18.03.2023;Portağal suyu;İçəcəkər;25;7;175;Nağd;Qadın;Günorta
+324;18.07.2022;Portağal suyu;İçəcəkər;25;15;375;Kart;Qadın;Gecə
+333;30.10.2022;Portağal suyu;İçəcəkər;25;11;275;Nağd;Qadın;Günorta
+338;6.05.2022;Portağal suyu;İçəcəkər;25;12;300;Nağd;Kişi;Səhər
+343;18.01.2023;Portağal suyu;İçəcəkər;25;5;125;Nağd;Kişi;Günorta
+356;26.05.2022;Portağal suyu;İçəcəkər;25;14;350;Nağd;Qadın;Gecə
+362;30.12.2022;Portağal suyu;İçəcəkər;25;2;50;Nağd;Kişi;Səhər
+366;30.11.2022;Portağal suyu;İçəcəkər;25;10;250;Kart;Qadın;Günorta
+373;8.05.2022;Portağal suyu;İçəcəkər;25;12;300;Nağd;Qadın;Gecə yarısı
+377;20.05.2022;Portağal suyu;İçəcəkər;25;3;75;Kart;Qadın;Akşamüstü
+384;22.10.2022;Portağal suyu;İçəcəkər;25;1;25;Kart;Kişi;Günorta
+387;17.03.2023;Portağal suyu;İçəcəkər;25;14;350;Nağd;Qadın;Gecə yarısı
+393;2.07.2022;Portağal suyu;İçəcəkər;25;10;250;Kart;Qadın;Akşamüstü
+401;11.10.2022;Portağal suyu;İçəcəkər;25;8;200;Kart;Qadın;Gecə yarısı
+405;13.12.2022;Portağal suyu;İçəcəkər;25;10;250;Nağd;Kişi;Gecə
+407;2.01.2023;Portağal suyu;İçəcəkər;25;2;50;Nağd;Kişi;Akşamüstü
+424;21.04.2022;Portağal suyu;İçəcəkər;25;9;225;Kart;Qadın;Gecə yarısı
+428;24.12.2022;Portağal suyu;İçəcəkər;25;8;200;Kart;Kişi;Günorta
+442;22.08.2022;Portağal suyu;İçəcəkər;25;7;175;Kart;Qadın;Gecə
+443;5.09.2022;Portağal suyu;İçəcəkər;25;12;300;Nağd;Qadın;Gecə
+450;20.05.2022;Portağal suyu;İçəcəkər;25;1;25;Kart;Kişi;Səhər
+451;15.03.2023;Portağal suyu;İçəcəkər;25;10;250;Nağd;Qadın;Gecə yarısı
+458;12.09.2022;Portağal suyu;İçəcəkər;25;8;200;Nağd;Qadın;Gecə yarısı
+461;22.07.2022;Portağal suyu;İçəcəkər;25;5;125;Nağd;Kişi;Gecə yarısı
+464;18.10.2022;Portağal suyu;İçəcəkər;25;13;325;Nağd;Kişi;Səhər
+465;15.01.2023;Portağal suyu;İçəcəkər;25;12;300;Kart;Kişi;Akşamüstü
+474;28.08.2022;Portağal suyu;İçəcəkər;25;15;375;Nağd;Qadın;Gecə
+478;27.12.2022;Portağal suyu;İçəcəkər;25;9;225;Nağd;Qadın;Günorta
+481;29.10.2022;Portağal suyu;İçəcəkər;25;4;100;Nağd;Kişi;Akşamüstü
+501;9.08.2022;Portağal suyu;İçəcəkər;25;14;350;Kart;Qadın;Günorta
+516;22.09.2022;Portağal suyu;İçəcəkər;25;12;300;Kart;Qadın;Gecə yarısı
+527;6.01.2023;Portağal suyu;İçəcəkər;25;6;150;Nağd;Qadın;Günorta
+528;1.07.2022;Portağal suyu;İçəcəkər;25;7;175;Nağd;Qadın;Gecə yarısı
+536;1.03.2023;Portağal suyu;İçəcəkər;25;7;175;Nağd;Qadın;Akşamüstü
+542;4.08.2022;Portağal suyu;İçəcəkər;25;9;225;Nağd;Kişi;Akşamüstü
+549;15.04.2022;Portağal suyu;İçəcəkər;25;3;75;Kart;Kişi;Günorta
+551;30.07.2022;Portağal suyu;İçəcəkər;25;7;175;Nağd;Kişi;Akşamüstü
+552;12.09.2022;Portağal suyu;İçəcəkər;25;15;375;Nağd;Qadın;Gecə yarısı
+560;10.12.2022;Portağal suyu;İçəcəkər;25;1;25;Nağd;Kişi;Akşamüstü
+570;15.09.2022;Portağal suyu;İçəcəkər;25;4;100;Nağd;Kişi;Səhər
+571;28.11.2022;Portağal suyu;İçəcəkər;25;1;25;Nağd;Qadın;Akşamüstü
+581;23.04.2022;Portağal suyu;İçəcəkər;25;13;325;Nağd;Kişi;Günorta
+592;4.12.2022;Portağal suyu;İçəcəkər;25;7;175;Nağd;Kişi;Səhər
+593;16.02.2023;Portağal suyu;İçəcəkər;25;9;225;Nağd;Qadın;Akşamüstü
+617;28.06.2022;Portağal suyu;İçəcəkər;25;2;50;Nağd;Kişi;Gecə
+619;9.09.2022;Portağal suyu;İçəcəkər;25;4;100;Nağd;Qadın;Səhər
+627;22.06.2022;Portağal suyu;İçəcəkər;25;15;375;Kart;Kişi;Günorta
+629;20.01.2023;Portağal suyu;İçəcəkər;25;9;225;Nağd;Qadın;Akşamüstü
+643;20.10.2022;Portağal suyu;İçəcəkər;25;2;50;Nağd;Kişi;Günorta
+655;30.06.2022;Portağal suyu;İçəcəkər;25;12;300;Kart;Kişi;Səhər
+663;5.02.2023;Portağal suyu;İçəcəkər;25;1;25;Kart;Kişi;Gecə
+693;29.11.2022;Portağal suyu;İçəcəkər;25;13;325;Kart;Qadın;Gecə yarısı
+696;23.02.2023;Portağal suyu;İçəcəkər;25;3;75;Kart;Qadın;Akşamüstü
+697;5.05.2022;Portağal suyu;İçəcəkər;25;5;125;Nağd;Kişi;Gecə yarısı
+701;19.07.2022;Portağal suyu;İçəcəkər;25;14;350;Kart;Qadın;Akşamüstü
+713;2.12.2022;Portağal suyu;İçəcəkər;25;14;350;Kart;Qadın;Səhər
+714;14.12.2022;Portağal suyu;İçəcəkər;25;14;350;Nağd;Kişi;Günorta
+746;5.08.2022;Portağal suyu;İçəcəkər;25;5;125;Kart;Qadın;Gecə yarısı
+753;26.06.2022;Portağal suyu;İçəcəkər;25;1;25;Nağd;Kişi;Gecə yarısı
+754;29.12.2022;Portağal suyu;İçəcəkər;25;14;350;Nağd;Qadın;Akşamüstü
+756;21.10.2022;Portağal suyu;İçəcəkər;25;10;250;Kart;Qadın;Səhər
+757;25.12.2022;Portağal suyu;İçəcəkər;25;11;275;Kart;Kişi;Səhər
+759;25.12.2022;Portağal suyu;İçəcəkər;25;13;325;Kart;Kişi;Gecə yarısı
+760;14.11.2022;Portağal suyu;İçəcəkər;25;1;25;Kart;Qadın;Akşamüstü
+780;27.11.2022;Portağal suyu;İçəcəkər;25;13;325;Kart;Qadın;Günorta
+788;13.08.2022;Portağal suyu;İçəcəkər;25;7;175;Kart;Kişi;Günorta
+789;3.08.2022;Portağal suyu;İçəcəkər;25;7;175;Nağd;Kişi;Səhər
+794;2.10.2022;Portağal suyu;İçəcəkər;25;5;125;Kart;Kişi;Günorta
+796;25.06.2022;Portağal suyu;İçəcəkər;25;14;350;Kart;Kişi;Gecə
+805;8.05.2022;Portağal suyu;İçəcəkər;25;1;25;Kart;Kişi;Günorta
+816;11.01.2023;Portağal suyu;İçəcəkər;25;11;275;Nağd;Kişi;Səhər
+832;6.06.2022;Portağal suyu;İçəcəkər;25;4;100;Nağd;Kişi;Səhər
+834;25.05.2022;Portağal suyu;İçəcəkər;25;14;350;Nağd;Kişi;Akşamüstü
+835;27.09.2022;Portağal suyu;İçəcəkər;25;7;175;Kart;Kişi;Günorta
+839;8.05.2022;Portağal suyu;İçəcəkər;25;4;100;Nağd;Qadın;Günorta
+843;4.07.2022;Portağal suyu;İçəcəkər;25;1;25;Nağd;Qadın;Səhər
+844;4.05.2022;Portağal suyu;İçəcəkər;25;13;325;Nağd;Kişi;Səhər
+852;5.05.2022;Portağal suyu;İçəcəkər;25;8;200;Kart;Kişi;Gecə
+857;8.11.2022;Portağal suyu;İçəcəkər;25;14;350;Kart;Qadın;Akşamüstü
+861;24.01.2023;Portağal suyu;İçəcəkər;25;8;200;Nağd;Qadın;Gecə
+865;23.01.2023;Portağal suyu;İçəcəkər;25;6;150;Nağd;Qadın;Gecə
+873;9.05.2022;Portağal suyu;İçəcəkər;25;1;25;Kart;Kişi;Gecə
+877;27.10.2022;Portağal suyu;İçəcəkər;25;14;350;Nağd;Qadın;Günorta
+880;25.06.2022;Portağal suyu;İçəcəkər;25;5;125;Nağd;Qadın;Səhər
+885;16.10.2022;Portağal suyu;İçəcəkər;25;4;100;Nağd;Kişi;Akşamüstü
+886;21.07.2022;Portağal suyu;İçəcəkər;25;4;100;Nağd;Qadın;Gecə
+890;3.03.2023;Portağal suyu;İçəcəkər;25;5;125;Nağd;Qadın;Səhər
+892;14.07.2022;Portağal suyu;İçəcəkər;25;7;175;Kart;Qadın;Akşamüstü
+893;13.07.2022;Portağal suyu;İçəcəkər;25;12;300;Nağd;Qadın;Günorta
+895;3.01.2023;Portağal suyu;İçəcəkər;25;11;275;Nağd;Kişi;Günorta
+900;7.12.2022;Portağal suyu;İçəcəkər;25;9;225;Kart;Kişi;Günorta
+930;27.11.2022;Portağal suyu;İçəcəkər;25;10;250;Kart;Kişi;Gecə
+933;21.01.2023;Portağal suyu;İçəcəkər;25;15;375;Kart;Qadın;Günorta
+938;10.08.2022;Portağal suyu;İçəcəkər;25;14;350;Nağd;Kişi;Akşamüstü
+940;7.02.2023;Portağal suyu;İçəcəkər;25;14;350;Kart;Qadın;Gecə yarısı
+955;27.01.2023;Portağal suyu;İçəcəkər;25;7;175;Kart;Kişi;Günorta
+960;12.08.2022;Portağal suyu;İçəcəkər;25;15;375;Kart;Qadın;Akşamüstü
+982;30.03.2023;Portağal suyu;İçəcəkər;25;14;350;Nağd;Qadın;Gecə
+986;30.04.2022;Portağal suyu;İçəcəkər;25;13;325;Kart;Kişi;Gecə
+995;18.06.2022;Portağal suyu;İçəcəkər;25;1;25;Kart;Kişi;Gecə
+20;15.09.2022;Soyuq qehve;İçəcəkər;40;10;400;Kart;Kişi;Gecə
+21;21.12.2022;Soyuq qehve;İçəcəkər;40;15;600;Nağd;Kişi;Akşamüstü
+27;12.10.2022;Soyuq qehve;İçəcəkər;40;11;440;Kart;Qadın;Günorta
+28;6.01.2023;Soyuq qehve;İçəcəkər;40;10;400;Kart;Qadın;Günorta
+31;14.09.2022;Soyuq qehve;İçəcəkər;40;13;520;Kart;Qadın;Akşamüstü
+36;2.07.2022;Soyuq qehve;İçəcəkər;40;10;400;Kart;Kişi;Günorta
+44;28.08.2022;Soyuq qehve;İçəcəkər;40;12;480;Nağd;Kişi;Akşamüstü
+60;11.06.2022;Soyuq qehve;İçəcəkər;40;2;80;Kart;Kişi;Gecə
+64;9.12.2022;Soyuq qehve;İçəcəkər;40;1;40;Nağd;Kişi;Səhər
+71;5.12.2022;Soyuq qehve;İçəcəkər;40;6;240;Kart;Kişi;Gecə
+74;15.08.2022;Soyuq qehve;İçəcəkər;40;10;400;Kart;Qadın;Akşamüstü
+75;2.02.2023;Soyuq qehve;İçəcəkər;40;6;240;Kart;Qadın;Günorta
+88;7.07.2022;Soyuq qehve;İçəcəkər;40;10;400;Nağd;Kişi;Akşamüstü
+93;3.07.2022;Soyuq qehve;İçəcəkər;40;2;80;Kart;Qadın;Gecə yarısı
+97;29.03.2023;Soyuq qehve;İçəcəkər;40;13;520;Kart;Kişi;Akşamüstü
+102;13.03.2023;Soyuq qehve;İçəcəkər;40;14;560;Nağd;Kişi;Səhər
+103;14.03.2023;Soyuq qehve;İçəcəkər;40;8;320;Kart;Qadın;Gecə yarısı
+104;27.10.2022;Soyuq qehve;İçəcəkər;40;13;520;Kart;Kişi;Səhər
+121;26.08.2022;Soyuq qehve;İçəcəkər;40;8;320;Nağd;Kişi;Günorta
+123;9.06.2022;Soyuq qehve;İçəcəkər;40;6;240;Kart;Kişi;Akşamüstü
+150;30.01.2023;Soyuq qehve;İçəcəkər;40;14;560;Nağd;Kişi;Günorta
+152;24.10.2022;Soyuq qehve;İçəcəkər;40;9;360;Kart;Kişi;Günorta
+167;23.02.2023;Soyuq qehve;İçəcəkər;40;6;240;Nağd;Qadın;Səhər
+173;20.01.2023;Soyuq qehve;İçəcəkər;40;2;80;Kart;Kişi;Gecə
+181;9.06.2022;Soyuq qehve;İçəcəkər;40;7;280;Nağd;Qadın;Gecə
+182;2.07.2022;Soyuq qehve;İçəcəkər;40;1;40;Nağd;Kişi;Gecə yarısı
+184;3.01.2023;Soyuq qehve;İçəcəkər;40;8;320;Nağd;Kişi;Gecə
+190;26.04.2022;Soyuq qehve;İçəcəkər;40;1;40;Kart;Kişi;Akşamüstü
+193;5.02.2023;Soyuq qehve;İçəcəkər;40;15;600;Kart;Qadın;Gecə yarısı
+200;25.12.2022;Soyuq qehve;İçəcəkər;40;10;400;Nağd;Qadın;Səhər
+204;24.10.2022;Soyuq qehve;İçəcəkər;40;7;280;Nağd;Qadın;Akşamüstü
+207;20.02.2023;Soyuq qehve;İçəcəkər;40;8;320;Kart;Qadın;Akşamüstü
+208;26.08.2022;Soyuq qehve;İçəcəkər;40;13;520;Nağd;Qadın;Gecə yarısı
+212;5.05.2022;Soyuq qehve;İçəcəkər;40;12;480;Kart;Qadın;Səhər
+217;23.03.2023;Soyuq qehve;İçəcəkər;40;10;400;Nağd;Kişi;Səhər
+218;23.12.2022;Soyuq qehve;İçəcəkər;40;13;520;Kart;Qadın;Gecə yarısı
+227;17.11.2022;Soyuq qehve;İçəcəkər;40;5;200;Nağd;Qadın;Günorta
+242;23.12.2022;Soyuq qehve;İçəcəkər;40;4;160;Kart;Qadın;Gecə yarısı
+268;5.02.2023;Soyuq qehve;İçəcəkər;40;12;480;Nağd;Qadın;Gecə yarısı
+277;8.12.2022;Soyuq qehve;İçəcəkər;40;13;520;Nağd;Qadın;Gecə yarısı
+306;3.03.2023;Soyuq qehve;İçəcəkər;40;8;320;Kart;Qadın;Səhər
+312;28.12.2022;Soyuq qehve;İçəcəkər;40;1;40;Nağd;Qadın;Gecə
+313;19.04.2022;Soyuq qehve;İçəcəkər;40;1;40;Nağd;Kişi;Gecə yarısı
+315;20.02.2023;Soyuq qehve;İçəcəkər;40;13;520;Kart;Qadın;Günorta
+322;5.05.2022;Soyuq qehve;İçəcəkər;40;11;440;Nağd;Kişi;Səhər
+334;4.04.2022;Soyuq qehve;İçəcəkər;40;4;160;Nağd;Qadın;Akşamüstü
+335;24.10.2022;Soyuq qehve;İçəcəkər;40;11;440;Nağd;Kişi;Gecə
+340;2.06.2022;Soyuq qehve;İçəcəkər;40;4;160;Nağd;Qadın;Akşamüstü
+344;13.05.2022;Soyuq qehve;İçəcəkər;40;14;560;Nağd;Kişi;Gecə
+346;31.01.2023;Soyuq qehve;İçəcəkər;40;12;480;Nağd;Kişi;Səhər
+350;21.09.2022;Soyuq qehve;İçəcəkər;40;8;320;Kart;Qadın;Səhər
+355;15.03.2023;Soyuq qehve;İçəcəkər;40;4;160;Kart;Kişi;Gecə yarısı
+360;6.10.2022;Soyuq qehve;İçəcəkər;40;2;80;Kart;Qadın;Gecə yarısı
+364;11.10.2022;Soyuq qehve;İçəcəkər;40;2;80;Kart;Kişi;Gecə
+368;31.08.2022;Soyuq qehve;İçəcəkər;40;2;80;Nağd;Kişi;Gecə
+382;16.08.2022;Soyuq qehve;İçəcəkər;40;9;360;Nağd;Qadın;Gecə
+400;4.03.2023;Soyuq qehve;İçəcəkər;40;15;600;Nağd;Qadın;Səhər
+403;25.09.2022;Soyuq qehve;İçəcəkər;40;3;120;Kart;Qadın;Gecə yarısı
+406;13.10.2022;Soyuq qehve;İçəcəkər;40;4;160;Kart;Qadın;Günorta
+418;12.11.2022;Soyuq qehve;İçəcəkər;40;7;280;Kart;Kişi;Gecə
+421;24.03.2023;Soyuq qehve;İçəcəkər;40;2;80;Kart;Kişi;Gecə yarısı
+422;2.08.2022;Soyuq qehve;İçəcəkər;40;7;280;Kart;Kişi;Akşamüstü
+429;19.09.2022;Soyuq qehve;İçəcəkər;40;3;120;Kart;Kişi;Gecə
+438;20.06.2022;Soyuq qehve;İçəcəkər;40;5;200;Kart;Kişi;Səhər
+446;31.08.2022;Soyuq qehve;İçəcəkər;40;9;360;Nağd;Kişi;Gecə
+455;1.03.2023;Soyuq qehve;İçəcəkər;40;11;440;Nağd;Kişi;Gecə yarısı
+457;16.10.2022;Soyuq qehve;İçəcəkər;40;11;440;Nağd;Kişi;Akşamüstü
+475;24.02.2023;Soyuq qehve;İçəcəkər;40;6;240;Nağd;Qadın;Gecə
+484;21.03.2023;Soyuq qehve;İçəcəkər;40;5;200;Nağd;Qadın;Günorta
+488;21.09.2022;Soyuq qehve;İçəcəkər;40;10;400;Nağd;Kişi;Gecə yarısı
+490;26.12.2022;Soyuq qehve;İçəcəkər;40;8;320;Nağd;Kişi;Səhər
+493;2.10.2022;Soyuq qehve;İçəcəkər;40;2;80;Kart;Kişi;Səhər
+494;14.01.2023;Soyuq qehve;İçəcəkər;40;10;400;Nağd;Qadın;Gecə
+496;7.11.2022;Soyuq qehve;İçəcəkər;40;10;400;Kart;Qadın;Gecə
+504;9.12.2022;Soyuq qehve;İçəcəkər;40;8;320;Nağd;Kişi;Akşamüstü
+506;26.12.2022;Soyuq qehve;İçəcəkər;40;12;480;Nağd;Qadın;Gecə yarısı
+513;16.07.2022;Soyuq qehve;İçəcəkər;40;5;200;Nağd;Qadın;Gecə
+514;24.08.2022;Soyuq qehve;İçəcəkər;40;8;320;Kart;Qadın;Akşamüstü
+519;25.11.2022;Soyuq qehve;İçəcəkər;40;10;400;Nağd;Kişi;Səhər
+531;4.10.2022;Soyuq qehve;İçəcəkər;40;10;400;Nağd;Kişi;Gecə
+547;14.05.2022;Soyuq qehve;İçəcəkər;40;10;400;Kart;Kişi;Səhər
+548;29.03.2023;Soyuq qehve;İçəcəkər;40;14;560;Nağd;Kişi;Günorta
+550;15.11.2022;Soyuq qehve;İçəcəkər;40;15;600;Kart;Kişi;Günorta
+559;31.08.2022;Soyuq qehve;İçəcəkər;40;5;200;Kart;Qadın;Gecə
+567;16.10.2022;Soyuq qehve;İçəcəkər;40;7;280;Kart;Qadın;Günorta
+569;2.01.2023;Soyuq qehve;İçəcəkər;40;15;600;Kart;Qadın;Gecə yarısı
+577;6.09.2022;Soyuq qehve;İçəcəkər;40;7;280;Nağd;Kişi;Akşamüstü
+584;4.12.2022;Soyuq qehve;İçəcəkər;40;15;600;Nağd;Kişi;Səhər
+589;25.08.2022;Soyuq qehve;İçəcəkər;40;5;200;Nağd;Kişi;Gecə
+596;26.04.2022;Soyuq qehve;İçəcəkər;40;1;40;Kart;Qadın;Gecə
+598;2.08.2022;Soyuq qehve;İçəcəkər;40;8;320;Nağd;Qadın;Günorta
+606;9.04.2022;Soyuq qehve;İçəcəkər;40;6;240;Nağd;Qadın;Gecə
+623;2.04.2022;Soyuq qehve;İçəcəkər;40;15;600;Nağd;Kişi;Gecə yarısı
+626;1.02.2023;Soyuq qehve;İçəcəkər;40;15;600;Nağd;Kişi;Gecə
+631;1.07.2022;Soyuq qehve;İçəcəkər;40;13;520;Nağd;Qadın;Akşamüstü
+633;24.05.2022;Soyuq qehve;İçəcəkər;40;3;120;Kart;Kişi;Akşamüstü
+638;20.08.2022;Soyuq qehve;İçəcəkər;40;11;440;Kart;Qadın;Günorta
+642;9.05.2022;Soyuq qehve;İçəcəkər;40;10;400;Kart;Qadın;Səhər
+652;21.05.2022;Soyuq qehve;İçəcəkər;40;13;520;Kart;Qadın;Günorta
+677;19.05.2022;Soyuq qehve;İçəcəkər;40;3;120;Kart;Qadın;Səhər
+680;20.04.2022;Soyuq qehve;İçəcəkər;40;4;160;Nağd;Kişi;Gecə
+686;25.11.2022;Soyuq qehve;İçəcəkər;40;5;200;Nağd;Kişi;Günorta
+699;9.09.2022;Soyuq qehve;İçəcəkər;40;1;40;Kart;Kişi;Akşamüstü
+702;25.03.2023;Soyuq qehve;İçəcəkər;40;13;520;Nağd;Qadın;Günorta
+709;22.02.2023;Soyuq qehve;İçəcəkər;40;6;240;Nağd;Kişi;Səhər
+723;16.02.2023;Soyuq qehve;İçəcəkər;40;10;400;Kart;Kişi;Akşamüstü
+747;14.01.2023;Soyuq qehve;İçəcəkər;40;3;120;Nağd;Qadın;Gecə yarısı
+772;20.03.2023;Soyuq qehve;İçəcəkər;40;9;360;Nağd;Kişi;Akşamüstü
+773;14.08.2022;Soyuq qehve;İçəcəkər;40;7;280;Kart;Kişi;Günorta
+797;26.11.2022;Soyuq qehve;İçəcəkər;40;11;440;Nağd;Kişi;Gecə
+800;6.11.2022;Soyuq qehve;İçəcəkər;40;14;560;Nağd;Kişi;Gecə
+804;11.10.2022;Soyuq qehve;İçəcəkər;40;12;480;Kart;Qadın;Gecə
+815;20.04.2022;Soyuq qehve;İçəcəkər;40;12;480;Kart;Qadın;Günorta
+829;19.09.2022;Soyuq qehve;İçəcəkər;40;6;240;Nağd;Kişi;Gecə
+838;31.07.2022;Soyuq qehve;İçəcəkər;40;9;360;Kart;Qadın;Səhər
+845;1.07.2022;Soyuq qehve;İçəcəkər;40;6;240;Kart;Qadın;Akşamüstü
+849;3.11.2022;Soyuq qehve;İçəcəkər;40;10;400;Nağd;Qadın;Gecə
+853;17.02.2023;Soyuq qehve;İçəcəkər;40;3;120;Kart;Qadın;Gecə yarısı
+854;14.10.2022;Soyuq qehve;İçəcəkər;40;14;560;Kart;Qadın;Gecə
+858;22.11.2022;Soyuq qehve;İçəcəkər;40;9;360;Nağd;Kişi;Akşamüstü
+860;16.07.2022;Soyuq qehve;İçəcəkər;40;5;200;Nağd;Kişi;Gecə
+864;20.08.2022;Soyuq qehve;İçəcəkər;40;9;360;Kart;Kişi;Səhər
+870;31.10.2022;Soyuq qehve;İçəcəkər;40;5;200;Kart;Qadın;Günorta
+874;9.05.2022;Soyuq qehve;İçəcəkər;40;4;160;Nağd;Kişi;Gecə yarısı
+876;10.06.2022;Soyuq qehve;İçəcəkər;40;8;320;Kart;Qadın;Akşamüstü
+879;6.11.2022;Soyuq qehve;İçəcəkər;40;9;360;Nağd;Qadın;Akşamüstü
+891;27.12.2022;Soyuq qehve;İçəcəkər;40;11;440;Nağd;Kişi;Gecə yarısı
+909;21.02.2023;Soyuq qehve;İçəcəkər;40;12;480;Kart;Qadın;Səhər
+915;7.10.2022;Soyuq qehve;İçəcəkər;40;7;280;Kart;Kişi;Günorta
+923;30.05.2022;Soyuq qehve;İçəcəkər;40;3;120;Kart;Kişi;Səhər
+934;19.09.2022;Soyuq qehve;İçəcəkər;40;4;160;Nağd;Qadın;Günorta
+941;10.02.2023;Soyuq qehve;İçəcəkər;40;10;400;Kart;Qadın;Səhər
+945;15.05.2022;Soyuq qehve;İçəcəkər;40;2;80;Kart;Qadın;Günorta
+964;7.05.2022;Soyuq qehve;İçəcəkər;40;8;320;Nağd;Kişi;Akşamüstü
+967;29.06.2022;Soyuq qehve;İçəcəkər;40;14;560;Nağd;Kişi;Günorta
+968;9.08.2022;Soyuq qehve;İçəcəkər;40;15;600;Nağd;Qadın;Səhər
+969;6.11.2022;Soyuq qehve;İçəcəkər;40;11;440;Nağd;Kişi;Səhər
+989;11.10.2022;Soyuq qehve;İçəcəkər;40;13;520;Nağd;Kişi;Günorta
